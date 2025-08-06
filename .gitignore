@@ -1,0 +1,6 @@
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Arquivos de sistema do Windows
+Thumbs.db
