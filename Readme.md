@@ -39,9 +39,6 @@ Esta ferramenta é particularmente útil para:
     -   A janela de permissão do Windows (UAC) aparecerá. Clique em **"Sim"** para conceder os privilégios de administrador.
     -   A ferramenta será iniciada, exibindo o menu principal.
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Se você tem ideias para novas funcionalidades ou encontrou um bug, por favor, veja nossas diretrizes de contribuição em [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licença
 
@@ -91,10 +88,6 @@ This tool is particularly useful for:
     -   From the context menu, select the **"Run with PowerShell"** option.
     -   The Windows User Account Control (UAC) prompt will appear. Click **"Yes"** to grant administrator privileges.
     -   The tool will launch, displaying the main menu.
-
-## How to Contribute
-
-Contributions are welcome! If you have ideas for new features or have found a bug, please see our contribution guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
